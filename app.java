@@ -19,4 +19,4 @@ public class HelloWorld {
 // commiting the java file from github
 // again commit in git local repo
 //
-//learning jenkins
+//learning jenkins craeting a pipeline using freestyle job
